@@ -1,0 +1,75 @@
+{
+  ".svelte-kit/generated/client-optimized/app.js": {
+    "dynamicImports": [
+      ".svelte-kit/generated/client-optimized/nodes/0.js",
+      ".svelte-kit/generated/client-optimized/nodes/1.js",
+      ".svelte-kit/generated/client-optimized/nodes/2.js"
+    ],
+    "file": "_app/immutable/entry/app.504fae0d.js",
+    "imports": [
+      "_index.f284bd3d.js"
+    ],
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/app.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/0.js": {
+    "file": "_app/immutable/nodes/0.2ccec392.js",
+    "imports": [
+      "_index.f284bd3d.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/0.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/1.js": {
+    "file": "_app/immutable/nodes/1.2d15e726.js",
+    "imports": [
+      "_index.f284bd3d.js",
+      "_singletons.ba146ffd.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/1.js"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.css": {
+    "file": "_app/immutable/assets/2.fbb7cc82.css",
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.css"
+  },
+  ".svelte-kit/generated/client-optimized/nodes/2.js": {
+    "css": [
+      "_app/immutable/assets/2.fbb7cc82.css"
+    ],
+    "file": "_app/immutable/nodes/2.4792be00.js",
+    "imports": [
+      "_index.f284bd3d.js",
+      "_index.253c8e76.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": ".svelte-kit/generated/client-optimized/nodes/2.js"
+  },
+  "_index.253c8e76.js": {
+    "file": "_app/immutable/chunks/index.253c8e76.js",
+    "imports": [
+      "_index.f284bd3d.js"
+    ]
+  },
+  "_index.f284bd3d.js": {
+    "file": "_app/immutable/chunks/index.f284bd3d.js"
+  },
+  "_singletons.ba146ffd.js": {
+    "file": "_app/immutable/chunks/singletons.ba146ffd.js",
+    "imports": [
+      "_index.253c8e76.js"
+    ]
+  },
+  "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
+    "file": "_app/immutable/entry/start.62d1b2a5.js",
+    "imports": [
+      "_index.f284bd3d.js",
+      "_singletons.ba146ffd.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js"
+  }
+}
