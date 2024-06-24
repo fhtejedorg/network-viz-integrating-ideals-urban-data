@@ -71,7 +71,7 @@
         "Physical Capital",
         "Non-Energy Resources",
         "Energy Resources",
-        "Transport",
+        "Mobility",
         "Climate",
         "Water",
         "Land and Ecosystems ",
